@@ -1,6 +1,6 @@
 {
-  "greeting": "Hi",
-  "name": "😊猫猫崽",
+  "greeting": "Hiiii",
+  "name": "😊猫崽",
   "greetingText": "我真的喜欢这个名字耶!",
   "wishText": "愿快乐一直围绕着你🎆希望猫猫一直在我身边! ;)",
   "imagePath": "img/lydia2.png",
@@ -9,15 +9,15 @@
   "sendButtonLabel": "发送",
   "text2": "That's what I was going to do.",
   "text3": "但我觉得这不太够诶",
-  "text4": "I realised, I wanted to do something",
-  "text4Adjective": "special",
+  "text4": "我意识到, 要给猫猫做点炫酷的",
+  "text4Adjective": "嘿嘿",
   "text5Entry": "因为,",
   "text5Content": "猫猫很特别",
   "smiley": ":)",
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "我做了这段小程序来祝猫猫生日快乐",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "好了，如果还算喜欢那就好",
+  "replayText": "点一下这里，就能再看一遍哈哈哈",
   "outroSmiley": ":)"
 }
